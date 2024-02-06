@@ -1,0 +1,108 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+struct FLeaderboardScoreUploaded;
+class UObject;
+struct FSteamLeaderboard;
+enum class ESteamLeaderboardUploadScoreMethod : uint8;
+class USteamCoreUserStatsAsyncActionUploadLeaderboardScore;
+#ifdef STEAMCORE_SteamCoreUserStatsAsyncActionUploadLeaderboardScore_generated_h
+#error "SteamCoreUserStatsAsyncActionUploadLeaderboardScore.generated.h already included, missing '#pragma once' in SteamCoreUserStatsAsyncActionUploadLeaderboardScore.h"
+#endif
+#define STEAMCORE_SteamCoreUserStatsAsyncActionUploadLeaderboardScore_generated_h
+
+#define testamogus_Plugins_EnginePlugins_Marketplace_SteamCore_Source_SteamCore_Public_SteamCoreUserStatsAsyncActionUploadLeaderboardScore_h_15_SPARSE_DATA
+#define testamogus_Plugins_EnginePlugins_Marketplace_SteamCore_Source_SteamCore_Public_SteamCoreUserStatsAsyncActionUploadLeaderboardScore_h_15_RPC_WRAPPERS \
+ \
+	DECLARE_FUNCTION(execHandleCallback); \
+	DECLARE_FUNCTION(execUploadLeaderboardScoreAsync);
+
+
+#define testamogus_Plugins_EnginePlugins_Marketplace_SteamCore_Source_SteamCore_Public_SteamCoreUserStatsAsyncActionUploadLeaderboardScore_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execHandleCallback); \
+	DECLARE_FUNCTION(execUploadLeaderboardScoreAsync);
+
+
+#define testamogus_Plugins_EnginePlugins_Marketplace_SteamCore_Source_SteamCore_Public_SteamCoreUserStatsAsyncActionUploadLeaderboardScore_h_15_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUSteamCoreUserStatsAsyncActionUploadLeaderboardScore(); \
+	friend struct Z_Construct_UClass_USteamCoreUserStatsAsyncActionUploadLeaderboardScore_Statics; \
+public: \
+	DECLARE_CLASS(USteamCoreUserStatsAsyncActionUploadLeaderboardScore, USteamCoreAsyncAction, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/SteamCore"), NO_API) \
+	DECLARE_SERIALIZER(USteamCoreUserStatsAsyncActionUploadLeaderboardScore)
+
+
+#define testamogus_Plugins_EnginePlugins_Marketplace_SteamCore_Source_SteamCore_Public_SteamCoreUserStatsAsyncActionUploadLeaderboardScore_h_15_INCLASS \
+private: \
+	static void StaticRegisterNativesUSteamCoreUserStatsAsyncActionUploadLeaderboardScore(); \
+	friend struct Z_Construct_UClass_USteamCoreUserStatsAsyncActionUploadLeaderboardScore_Statics; \
+public: \
+	DECLARE_CLASS(USteamCoreUserStatsAsyncActionUploadLeaderboardScore, USteamCoreAsyncAction, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/SteamCore"), NO_API) \
+	DECLARE_SERIALIZER(USteamCoreUserStatsAsyncActionUploadLeaderboardScore)
+
+
+#define testamogus_Plugins_EnginePlugins_Marketplace_SteamCore_Source_SteamCore_Public_SteamCoreUserStatsAsyncActionUploadLeaderboardScore_h_15_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API USteamCoreUserStatsAsyncActionUploadLeaderboardScore(const FObjectInitializer& ObjectInitializer); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(USteamCoreUserStatsAsyncActionUploadLeaderboardScore) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, USteamCoreUserStatsAsyncActionUploadLeaderboardScore); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(USteamCoreUserStatsAsyncActionUploadLeaderboardScore); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API USteamCoreUserStatsAsyncActionUploadLeaderboardScore(USteamCoreUserStatsAsyncActionUploadLeaderboardScore&&); \
+	NO_API USteamCoreUserStatsAsyncActionUploadLeaderboardScore(const USteamCoreUserStatsAsyncActionUploadLeaderboardScore&); \
+public:
+
+
+#define testamogus_Plugins_EnginePlugins_Marketplace_SteamCore_Source_SteamCore_Public_SteamCoreUserStatsAsyncActionUploadLeaderboardScore_h_15_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API USteamCoreUserStatsAsyncActionUploadLeaderboardScore(USteamCoreUserStatsAsyncActionUploadLeaderboardScore&&); \
+	NO_API USteamCoreUserStatsAsyncActionUploadLeaderboardScore(const USteamCoreUserStatsAsyncActionUploadLeaderboardScore&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, USteamCoreUserStatsAsyncActionUploadLeaderboardScore); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(USteamCoreUserStatsAsyncActionUploadLeaderboardScore); \
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(USteamCoreUserStatsAsyncActionUploadLeaderboardScore)
+
+
+#define testamogus_Plugins_EnginePlugins_Marketplace_SteamCore_Source_SteamCore_Public_SteamCoreUserStatsAsyncActionUploadLeaderboardScore_h_15_PRIVATE_PROPERTY_OFFSET
+#define testamogus_Plugins_EnginePlugins_Marketplace_SteamCore_Source_SteamCore_Public_SteamCoreUserStatsAsyncActionUploadLeaderboardScore_h_13_PROLOG
+#define testamogus_Plugins_EnginePlugins_Marketplace_SteamCore_Source_SteamCore_Public_SteamCoreUserStatsAsyncActionUploadLeaderboardScore_h_15_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	testamogus_Plugins_EnginePlugins_Marketplace_SteamCore_Source_SteamCore_Public_SteamCoreUserStatsAsyncActionUploadLeaderboardScore_h_15_PRIVATE_PROPERTY_OFFSET \
+	testamogus_Plugins_EnginePlugins_Marketplace_SteamCore_Source_SteamCore_Public_SteamCoreUserStatsAsyncActionUploadLeaderboardScore_h_15_SPARSE_DATA \
+	testamogus_Plugins_EnginePlugins_Marketplace_SteamCore_Source_SteamCore_Public_SteamCoreUserStatsAsyncActionUploadLeaderboardScore_h_15_RPC_WRAPPERS \
+	testamogus_Plugins_EnginePlugins_Marketplace_SteamCore_Source_SteamCore_Public_SteamCoreUserStatsAsyncActionUploadLeaderboardScore_h_15_INCLASS \
+	testamogus_Plugins_EnginePlugins_Marketplace_SteamCore_Source_SteamCore_Public_SteamCoreUserStatsAsyncActionUploadLeaderboardScore_h_15_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define testamogus_Plugins_EnginePlugins_Marketplace_SteamCore_Source_SteamCore_Public_SteamCoreUserStatsAsyncActionUploadLeaderboardScore_h_15_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	testamogus_Plugins_EnginePlugins_Marketplace_SteamCore_Source_SteamCore_Public_SteamCoreUserStatsAsyncActionUploadLeaderboardScore_h_15_PRIVATE_PROPERTY_OFFSET \
+	testamogus_Plugins_EnginePlugins_Marketplace_SteamCore_Source_SteamCore_Public_SteamCoreUserStatsAsyncActionUploadLeaderboardScore_h_15_SPARSE_DATA \
+	testamogus_Plugins_EnginePlugins_Marketplace_SteamCore_Source_SteamCore_Public_SteamCoreUserStatsAsyncActionUploadLeaderboardScore_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+	testamogus_Plugins_EnginePlugins_Marketplace_SteamCore_Source_SteamCore_Public_SteamCoreUserStatsAsyncActionUploadLeaderboardScore_h_15_INCLASS_NO_PURE_DECLS \
+	testamogus_Plugins_EnginePlugins_Marketplace_SteamCore_Source_SteamCore_Public_SteamCoreUserStatsAsyncActionUploadLeaderboardScore_h_15_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> STEAMCORE_API UClass* StaticClass<class USteamCoreUserStatsAsyncActionUploadLeaderboardScore>();
+
+#undef CURRENT_FILE_ID
+#define CURRENT_FILE_ID testamogus_Plugins_EnginePlugins_Marketplace_SteamCore_Source_SteamCore_Public_SteamCoreUserStatsAsyncActionUploadLeaderboardScore_h
+
+
+PRAGMA_ENABLE_DEPRECATION_WARNINGS

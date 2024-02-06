@@ -1,0 +1,104 @@
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Intermediate\Build\Win64\UE4Editor\Development\SteamCore\Definitions.SteamCore.h
+C:/Users/USER/OneDrive/Documents/Unreal Projects/testamogus/Plugins/EnginePlugins/Marketplace/SteamCore/Intermediate/Build/Win64/UE4Editor/Inc/SteamCore/SteamPartyBeaconLocation.gen.cpp
+D:\games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Source\SteamCore/Public/SteamPartyBeaconLocation.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Source\SteamCore\Public\ESteamPartiesBeaconLocationType.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Intermediate\Build\Win64\UE4Editor\Inc\SteamCore\ESteamPartiesBeaconLocationType.generated.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Intermediate\Build\Win64\UE4Editor\Inc\SteamCore\SteamPartyBeaconLocation.generated.h
+C:/Users/USER/OneDrive/Documents/Unreal Projects/testamogus/Plugins/EnginePlugins/Marketplace/SteamCore/Intermediate/Build/Win64/UE4Editor/Inc/SteamCore/SteamRemotePlaySessionConnected.gen.cpp
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Source\SteamCore/Public/SteamRemotePlaySessionConnected.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Intermediate\Build\Win64\UE4Editor\Inc\SteamCore\SteamRemotePlaySessionConnected.generated.h
+C:/Users/USER/OneDrive/Documents/Unreal Projects/testamogus/Plugins/EnginePlugins/Marketplace/SteamCore/Intermediate/Build/Win64/UE4Editor/Inc/SteamCore/SteamRemotePlaySessionDisconnected.gen.cpp
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Source\SteamCore/Public/SteamRemotePlaySessionDisconnected.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Intermediate\Build\Win64\UE4Editor\Inc\SteamCore\SteamRemotePlaySessionDisconnected.generated.h
+C:/Users/USER/OneDrive/Documents/Unreal Projects/testamogus/Plugins/EnginePlugins/Marketplace/SteamCore/Intermediate/Build/Win64/UE4Editor/Inc/SteamCore/SteamServerAddr.gen.cpp
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Source\SteamCore/Public/SteamServerAddr.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Intermediate\Build\Win64\UE4Editor\Inc\SteamCore\SteamServerAddr.generated.h
+C:/Users/USER/OneDrive/Documents/Unreal Projects/testamogus/Plugins/EnginePlugins/Marketplace/SteamCore/Intermediate/Build/Win64/UE4Editor/Inc/SteamCore/SteamServerConnectFailure.gen.cpp
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Source\SteamCore/Public/SteamServerConnectFailure.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Source\SteamCore\Public\ESteamResult.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Intermediate\Build\Win64\UE4Editor\Inc\SteamCore\ESteamResult.generated.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Intermediate\Build\Win64\UE4Editor\Inc\SteamCore\SteamServerConnectFailure.generated.h
+C:/Users/USER/OneDrive/Documents/Unreal Projects/testamogus/Plugins/EnginePlugins/Marketplace/SteamCore/Intermediate/Build/Win64/UE4Editor/Inc/SteamCore/SteamServersConnected.gen.cpp
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Source\SteamCore/Public/SteamServersConnected.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Intermediate\Build\Win64\UE4Editor\Inc\SteamCore\SteamServersConnected.generated.h
+C:/Users/USER/OneDrive/Documents/Unreal Projects/testamogus/Plugins/EnginePlugins/Marketplace/SteamCore/Intermediate/Build/Win64/UE4Editor/Inc/SteamCore/SteamServersDisconnected.gen.cpp
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Source\SteamCore/Public/SteamServersDisconnected.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Intermediate\Build\Win64\UE4Editor\Inc\SteamCore\SteamServersDisconnected.generated.h
+C:/Users/USER/OneDrive/Documents/Unreal Projects/testamogus/Plugins/EnginePlugins/Marketplace/SteamCore/Intermediate/Build/Win64/UE4Editor/Inc/SteamCore/SteamSessionResult.gen.cpp
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Source\SteamCore/Public/SteamSessionResult.h
+D:\games\UE_4.27\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes\FindSessionsCallbackProxy.h
+D:\games\UE_4.27\Engine\Plugins\Online\OnlineSubsystem\Source\Public\OnlineSessionSettings.h
+D:\games\UE_4.27\Engine\Plugins\Online\OnlineSubsystem\Source\Public\OnlineSubsystemTypes.h
+D:\games\UE_4.27\Engine\Plugins\Online\OnlineSubsystem\Source\Public\OnlineSubsystemNames.h
+D:\games\UE_4.27\Engine\Plugins\Online\OnlineSubsystem\Source\Public\OnlineSubsystemPackage.h
+D:\games\UE_4.27\Engine\Plugins\Online\OnlineSubsystem\Source\Public\OnlineKeyValuePair.h
+D:\games\UE_4.27\Engine\Plugins\Online\OnlineSubsystem\Source\Public\OnlineSubsystemPackage.h
+D:\games\UE_4.27\Engine\Plugins\Online\OnlineSubsystem\Source\Public\OnlineSubsystemPackage.h
+D:\games\UE_4.27\Engine\Source\Runtime\Engine\Public\Net/OnlineBlueprintCallProxyBase.h
+D:\games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/BlueprintAsyncActionBase.h
+D:\games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BlueprintAsyncActionBase.generated.h
+D:\games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\OnlineBlueprintCallProxyBase.generated.h
+D:\games\UE_4.27\Engine\Plugins\Online\OnlineSubsystem\Source\Public\Interfaces/OnlineSessionInterface.h
+D:\games\UE_4.27\Engine\Plugins\Online\OnlineSubsystem\Source\Public\OnlineDelegateMacros.h
+D:\games\UE_4.27\Engine\Plugins\Online\OnlineSubsystemUtils\Intermediate\Build\Win64\UE4Editor\Inc\OnlineSubsystemUtils\FindSessionsCallbackProxy.generated.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Source\SteamCore\Public\SteamSessionSetting.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Intermediate\Build\Win64\UE4Editor\Inc\SteamCore\SteamSessionSetting.generated.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Intermediate\Build\Win64\UE4Editor\Inc\SteamCore\SteamSessionResult.generated.h
+C:/Users/USER/OneDrive/Documents/Unreal Projects/testamogus/Plugins/EnginePlugins/Marketplace/SteamCore/Intermediate/Build/Win64/UE4Editor/Inc/SteamCore/SteamSessionSearchSetting.gen.cpp
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Source\SteamCore/Public/SteamSessionSearchSetting.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Intermediate\Build\Win64\UE4Editor\Inc\SteamCore\SteamSessionSearchSetting.generated.h
+C:/Users/USER/OneDrive/Documents/Unreal Projects/testamogus/Plugins/EnginePlugins/Marketplace/SteamCore/Intermediate/Build/Win64/UE4Editor/Inc/SteamCore/SteamSessionSetting.gen.cpp
+C:/Users/USER/OneDrive/Documents/Unreal Projects/testamogus/Plugins/EnginePlugins/Marketplace/SteamCore/Intermediate/Build/Win64/UE4Editor/Inc/SteamCore/SteamShutdown.gen.cpp
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Source\SteamCore/Public/SteamShutdown.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Intermediate\Build\Win64\UE4Editor\Inc\SteamCore\SteamShutdown.generated.h
+C:/Users/USER/OneDrive/Documents/Unreal Projects/testamogus/Plugins/EnginePlugins/Marketplace/SteamCore/Intermediate/Build/Win64/UE4Editor/Inc/SteamCore/SteamTicketHandle.gen.cpp
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Source\SteamCore/Public/SteamTicketHandle.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Intermediate\Build\Win64\UE4Editor\Inc\SteamCore\SteamTicketHandle.generated.h
+C:/Users/USER/OneDrive/Documents/Unreal Projects/testamogus/Plugins/EnginePlugins/Marketplace/SteamCore/Intermediate/Build/Win64/UE4Editor/Inc/SteamCore/SteamUGCDetails.gen.cpp
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Source\SteamCore/Public/SteamUGCDetails.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Source\SteamCore\Public\ESteamRemoteStoragePublishedFileVisibility.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Intermediate\Build\Win64\UE4Editor\Inc\SteamCore\ESteamRemoteStoragePublishedFileVisibility.generated.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Source\SteamCore\Public\ESteamWorkshopFileType.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Intermediate\Build\Win64\UE4Editor\Inc\SteamCore\ESteamWorkshopFileType.generated.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Source\SteamCore\Public\PublishedFileID.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Intermediate\Build\Win64\UE4Editor\Inc\SteamCore\PublishedFileID.generated.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Source\SteamCore\Public\SteamID.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Intermediate\Build\Win64\UE4Editor\Inc\SteamCore\SteamID.generated.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Source\SteamCore\Public\SteamUGCHandle.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Intermediate\Build\Win64\UE4Editor\Inc\SteamCore\SteamUGCHandle.generated.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Intermediate\Build\Win64\UE4Editor\Inc\SteamCore\SteamUGCDetails.generated.h
+C:/Users/USER/OneDrive/Documents/Unreal Projects/testamogus/Plugins/EnginePlugins/Marketplace/SteamCore/Intermediate/Build/Win64/UE4Editor/Inc/SteamCore/SteamUGCHandle.gen.cpp
+C:/Users/USER/OneDrive/Documents/Unreal Projects/testamogus/Plugins/EnginePlugins/Marketplace/SteamCore/Intermediate/Build/Win64/UE4Editor/Inc/SteamCore/SteamUGCQueryCompleted.gen.cpp
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Source\SteamCore/Public/SteamUGCQueryCompleted.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Source\SteamCore\Public\UGCQueryHandle.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Intermediate\Build\Win64\UE4Editor\Inc\SteamCore\UGCQueryHandle.generated.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Intermediate\Build\Win64\UE4Editor\Inc\SteamCore\SteamUGCQueryCompleted.generated.h
+C:/Users/USER/OneDrive/Documents/Unreal Projects/testamogus/Plugins/EnginePlugins/Marketplace/SteamCore/Intermediate/Build/Win64/UE4Editor/Inc/SteamCore/SteamUtilities.gen.cpp
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Source\SteamCore/Public/SteamUtilities.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Source\SteamCore\Public\ESteamAccountType.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Intermediate\Build\Win64\UE4Editor\Inc\SteamCore\ESteamAccountType.generated.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Source\SteamCore\Public\ESteamAttributeType.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Intermediate\Build\Win64\UE4Editor\Inc\SteamCore\ESteamAttributeType.generated.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Source\SteamCore\Public\ESteamComparisonOp.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Intermediate\Build\Win64\UE4Editor\Inc\SteamCore\ESteamComparisonOp.generated.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Source\SteamCore\Public\ESteamCoreIdentical.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Intermediate\Build\Win64\UE4Editor\Inc\SteamCore\ESteamCoreIdentical.generated.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Source\SteamCore\Public\ESteamCoreValid.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Intermediate\Build\Win64\UE4Editor\Inc\SteamCore\ESteamCoreValid.generated.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Source\SteamCore\Public\HostPingData.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Intermediate\Build\Win64\UE4Editor\Inc\SteamCore\HostPingData.generated.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Source\SteamCore\Public\OnHTTPResponseDelegate.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Intermediate\Build\Win64\UE4Editor\Inc\SteamCore\OnHTTPResponseDelegate.generated.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Source\SteamCore\Public\OnSteamMessageDelegate.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Source\SteamCore\Public\ESteamMessageType.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Intermediate\Build\Win64\UE4Editor\Inc\SteamCore\ESteamMessageType.generated.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Intermediate\Build\Win64\UE4Editor\Inc\SteamCore\OnSteamMessageDelegate.generated.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Source\SteamCore\Public\SteamGameID.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Intermediate\Build\Win64\UE4Editor\Inc\SteamCore\SteamGameID.generated.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Source\SteamCore\Public\SteamInventoryUpdateHandle.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Intermediate\Build\Win64\UE4Editor\Inc\SteamCore\SteamInventoryUpdateHandle.generated.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Source\SteamCore\Public\SteamItemInstanceID.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Intermediate\Build\Win64\UE4Editor\Inc\SteamCore\SteamItemInstanceID.generated.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Intermediate\Build\Win64\UE4Editor\Inc\SteamCore\SteamUtilities.generated.h

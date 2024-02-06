@@ -1,0 +1,33 @@
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Intermediate\Build\Win64\UE4Editor\Development\SteamCoreWeb\Definitions.SteamCoreWeb.h
+C:/Users/USER/OneDrive/Documents/Unreal Projects/testamogus/Plugins/EnginePlugins/Marketplace/SteamCore/Intermediate/Build/Win64/UE4Editor/Inc/SteamCoreWeb/WebLobbyMatchmakingService.gen.cpp
+D:\games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Source\SteamCoreWeb/Public/WebLobbyMatchmakingService.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Source\SteamCoreWeb\Public\ESteamCoreWebLobbyType.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Intermediate\Build\Win64\UE4Editor\Inc\SteamCoreWeb\ESteamCoreWebLobbyType.generated.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Source\SteamCoreWeb\Public\OnSteamCoreWebCallbackDelegate.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Intermediate\Build\Win64\UE4Editor\Inc\SteamCoreWeb\OnSteamCoreWebCallbackDelegate.generated.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Source\SteamCoreWeb\Public\SteamCoreWebSubsystem.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Intermediate\Build\Win64\UE4Editor\Inc\SteamCoreWeb\SteamCoreWebSubsystem.generated.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Intermediate\Build\Win64\UE4Editor\Inc\SteamCoreWeb\WebLobbyMatchmakingService.generated.h
+C:/Users/USER/OneDrive/Documents/Unreal Projects/testamogus/Plugins/EnginePlugins/Marketplace/SteamCore/Intermediate/Build/Win64/UE4Editor/Inc/SteamCoreWeb/WebMicroTxn.gen.cpp
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Source\SteamCoreWeb/Public/WebMicroTxn.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Intermediate\Build\Win64\UE4Editor\Inc\SteamCoreWeb\WebMicroTxn.generated.h
+C:/Users/USER/OneDrive/Documents/Unreal Projects/testamogus/Plugins/EnginePlugins/Marketplace/SteamCore/Intermediate/Build/Win64/UE4Editor/Inc/SteamCoreWeb/WebPlayerService.gen.cpp
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Source\SteamCoreWeb/Public/WebPlayerService.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Intermediate\Build\Win64\UE4Editor\Inc\SteamCoreWeb\WebPlayerService.generated.h
+C:/Users/USER/OneDrive/Documents/Unreal Projects/testamogus/Plugins/EnginePlugins/Marketplace/SteamCore/Intermediate/Build/Win64/UE4Editor/Inc/SteamCoreWeb/WebPublishedFileService.gen.cpp
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Source\SteamCoreWeb/Public/WebPublishedFileService.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Intermediate\Build\Win64\UE4Editor\Inc\SteamCoreWeb\WebPublishedFileService.generated.h
+C:/Users/USER/OneDrive/Documents/Unreal Projects/testamogus/Plugins/EnginePlugins/Marketplace/SteamCore/Intermediate/Build/Win64/UE4Editor/Inc/SteamCoreWeb/WebPublishedItemVoting.gen.cpp
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Source\SteamCoreWeb/Public/WebPublishedItemVoting.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Intermediate\Build\Win64\UE4Editor\Inc\SteamCoreWeb\WebPublishedItemVoting.generated.h
+C:/Users/USER/OneDrive/Documents/Unreal Projects/testamogus/Plugins/EnginePlugins/Marketplace/SteamCore/Intermediate/Build/Win64/UE4Editor/Inc/SteamCoreWeb/WebRemoteStorage.gen.cpp
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Source\SteamCoreWeb/Public/WebRemoteStorage.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Intermediate\Build\Win64\UE4Editor\Inc\SteamCoreWeb\WebRemoteStorage.generated.h
+C:/Users/USER/OneDrive/Documents/Unreal Projects/testamogus/Plugins/EnginePlugins/Marketplace/SteamCore/Intermediate/Build/Win64/UE4Editor/Inc/SteamCoreWeb/WebSteamCommunity.gen.cpp
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Source\SteamCoreWeb/Public/WebSteamCommunity.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Intermediate\Build\Win64\UE4Editor\Inc\SteamCoreWeb\WebSteamCommunity.generated.h
+C:/Users/USER/OneDrive/Documents/Unreal Projects/testamogus/Plugins/EnginePlugins/Marketplace/SteamCore/Intermediate/Build/Win64/UE4Editor/Inc/SteamCoreWeb/WebSteamEconomy.gen.cpp
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Source\SteamCoreWeb/Public/WebSteamEconomy.h
+C:\Users\USER\OneDrive\Documents\Unreal Projects\testamogus\Plugins\EnginePlugins\Marketplace\SteamCore\Intermediate\Build\Win64\UE4Editor\Inc\SteamCoreWeb\WebSteamEconomy.generated.h

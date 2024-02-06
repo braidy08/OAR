@@ -1,0 +1,12 @@
+#include "SteamCoreUserStatsAsyncActionDownloadLeaderboardEntriesForUsers.h"
+
+void USteamCoreUserStatsAsyncActionDownloadLeaderboardEntriesForUsers::HandleCallback(const FLeaderboardScoresDownloadedForUsers& Data, bool bWasSuccessful) {
+}
+
+USteamCoreUserStatsAsyncActionDownloadLeaderboardEntriesForUsers* USteamCoreUserStatsAsyncActionDownloadLeaderboardEntriesForUsers::DownloadLeaderboardEntriesForUsersAsync(UObject* WorldContextObject, FSteamLeaderboard SteamLeaderboard, TArray<FSteamID> Users, float Timeout) {
+    return NULL;
+}
+
+USteamCoreUserStatsAsyncActionDownloadLeaderboardEntriesForUsers::USteamCoreUserStatsAsyncActionDownloadLeaderboardEntriesForUsers() {
+}
+
